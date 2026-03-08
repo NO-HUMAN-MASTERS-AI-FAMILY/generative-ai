@@ -12,8 +12,6 @@ This repository contains notebooks, code samples, sample apps, and other resourc
 
 ## Using this repository
 
-[![Applied AI Summit: The cloud toolkit for generative AI](https://img.youtube.com/vi/xT7WW2SKLfE/hqdefault.jpg)](https://www.youtube.com/watch?v=xT7WW2SKLfE)
-
 <table>
   <tr>
     <th></th>
